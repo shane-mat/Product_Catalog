@@ -1,0 +1,12 @@
+C:\xero_assesment\ProductCatalog\ProductCatalog.Infrastructure\bin\BNB\Debug\netstandard2.0\ProductCatalog.Infrastructure.deps.json
+C:\xero_assesment\ProductCatalog\ProductCatalog.Infrastructure\bin\BNB\Debug\netstandard2.0\ProductCatalog.Infrastructure.dll
+C:\xero_assesment\ProductCatalog\ProductCatalog.Infrastructure\bin\BNB\Debug\netstandard2.0\ProductCatalog.Infrastructure.pdb
+C:\xero_assesment\ProductCatalog\ProductCatalog.Infrastructure\bin\BNB\Debug\netstandard2.0\ProductCatalog.Domain.dll
+C:\xero_assesment\ProductCatalog\ProductCatalog.Infrastructure\bin\BNB\Debug\netstandard2.0\ProductCatalog.Domain.pdb
+C:\xero_assesment\ProductCatalog\ProductCatalog.Infrastructure\obj\BNB\Debug\netstandard2.0\ProductCatalog.Infrastructure.csprojAssemblyReference.cache
+C:\xero_assesment\ProductCatalog\ProductCatalog.Infrastructure\obj\BNB\Debug\netstandard2.0\ProductCatalog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\xero_assesment\ProductCatalog\ProductCatalog.Infrastructure\obj\BNB\Debug\netstandard2.0\ProductCatalog.Infrastructure.AssemblyInfoInputs.cache
+C:\xero_assesment\ProductCatalog\ProductCatalog.Infrastructure\obj\BNB\Debug\netstandard2.0\ProductCatalog.Infrastructure.AssemblyInfo.cs
+C:\xero_assesment\ProductCatalog\ProductCatalog.Infrastructure\obj\BNB\Debug\netstandard2.0\ProductCatalog.Infrastructure.csproj.CopyComplete
+C:\xero_assesment\ProductCatalog\ProductCatalog.Infrastructure\obj\BNB\Debug\netstandard2.0\ProductCatalog.Infrastructure.dll
+C:\xero_assesment\ProductCatalog\ProductCatalog.Infrastructure\obj\BNB\Debug\netstandard2.0\ProductCatalog.Infrastructure.pdb
